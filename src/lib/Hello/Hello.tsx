@@ -1,5 +1,5 @@
 import * as React from 'react';
-// import './Hello.less';
+import './Hello.less';
 
 export interface HelloProps {
   /**
